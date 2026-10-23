@@ -37,6 +37,8 @@ export function accountError(error) {
   const code=error?.code||'', message=error?.message||'';
   if(/invalid_credentials|invalid login credentials/i.test(code+' '+message))return '邮箱或密码不正确，请检查后再试。';
   if(/email_not_confirmed/i.test(code))return '请先打开邮箱中的确认邮件，再回来登录。';
+  if(/email_address_not_authorized|email address not authorized/i.test(code+' '+message))return '请使用开通字芽时的 Supabase 账号邮箱注册或找回密码；其他邮箱暂未开通邮件服务。';
+  if(/over_email_send_rate_limit/i.test(code))return '当前邮件发送次数已用完，请稍后再试，避免反复提交。';
   if(/over_.*rate_limit|rate limit/i.test(code+' '+message))return '操作有些频繁，请稍等一会儿再试。';
   if(/weak_password|password/i.test(code))return '请使用至少 8 位密码，包含字母和数字。';
   if(/signup_disabled/i.test(code))return '暂未开放注册，请使用已经创建的语文账号。';

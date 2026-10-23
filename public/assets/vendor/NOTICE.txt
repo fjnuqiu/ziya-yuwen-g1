@@ -1,0 +1,19 @@
+字芽使用的开源组件与字体
+
+Hanzi Writer 3.7.3
+Copyright (c) Chanind — MIT License
+https://github.com/chanind/hanzi-writer
+完整许可见 HANZI-WRITER-LICENSE.txt。
+
+Hanzi Writer Data 2.0.1（本册100字子集）
+Derived from Make Me a Hanzi and Arphic fonts.
+https://github.com/chanind/hanzi-writer-data
+https://github.com/skishore/makemeahanzi
+数据依据 Arphic Public License 分发，完整许可见 ARPHICPL.TXT。
+字形、笔顺为辅助参考，教材与课堂要求优先。
+
+Andika Regular
+Copyright 2004–2023 SIL International
+SIL Open Font License 1.1
+https://github.com/google/fonts/tree/main/ofl/andika
+完整许可见 ANDIKA-OFL.txt。用于呈现便于初学者辨认的拼音字形。

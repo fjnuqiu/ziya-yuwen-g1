@@ -1,0 +1,284 @@
+{
+  "strokes": [
+    {
+      "symbol": "一",
+      "name": "横"
+    },
+    {
+      "symbol": "丨",
+      "name": "竖"
+    },
+    {
+      "symbol": "丿",
+      "name": "撇"
+    },
+    {
+      "symbol": "丶",
+      "name": "点"
+    },
+    {
+      "symbol": "㇏",
+      "name": "捺"
+    },
+    {
+      "symbol": "㇀",
+      "name": "提"
+    },
+    {
+      "symbol": "㇕",
+      "name": "横折"
+    },
+    {
+      "symbol": "㇇",
+      "name": "横撇"
+    },
+    {
+      "symbol": "㇖",
+      "name": "横钩"
+    },
+    {
+      "symbol": "㇗",
+      "name": "竖折"
+    },
+    {
+      "symbol": "㇄",
+      "name": "竖弯"
+    },
+    {
+      "symbol": "㇙",
+      "name": "竖提"
+    },
+    {
+      "symbol": "㇚",
+      "name": "竖钩"
+    },
+    {
+      "symbol": "㇜",
+      "name": "撇折"
+    },
+    {
+      "symbol": "㇛",
+      "name": "撇点"
+    },
+    {
+      "symbol": "㇁",
+      "name": "弯钩"
+    },
+    {
+      "symbol": "㇂",
+      "name": "斜钩"
+    },
+    {
+      "symbol": "㇃",
+      "name": "卧钩"
+    },
+    {
+      "symbol": "㇅",
+      "name": "横折折"
+    },
+    {
+      "symbol": "㇍",
+      "name": "横折弯"
+    },
+    {
+      "symbol": "㇊",
+      "name": "横折提"
+    },
+    {
+      "symbol": "㇆",
+      "name": "横折钩"
+    },
+    {
+      "symbol": "⺄",
+      "name": "横斜钩"
+    },
+    {
+      "symbol": "㇞",
+      "name": "竖折折"
+    },
+    {
+      "symbol": "ㄣ",
+      "name": "竖折撇"
+    },
+    {
+      "symbol": "㇟",
+      "name": "竖弯钩"
+    },
+    {
+      "symbol": "㇎",
+      "name": "横折折折"
+    },
+    {
+      "symbol": "㇋",
+      "name": "横折折撇"
+    },
+    {
+      "symbol": "㇈",
+      "name": "横折弯钩"
+    },
+    {
+      "symbol": "㇌",
+      "name": "横撇弯钩"
+    },
+    {
+      "symbol": "㇉",
+      "name": "竖折折钩"
+    },
+    {
+      "symbol": "㇡",
+      "name": "横折折折钩"
+    }
+  ],
+  "radicals": [
+    {
+      "symbol": "亻",
+      "name": "单人旁",
+      "example": "作、伴"
+    },
+    {
+      "symbol": "八",
+      "name": "八字头",
+      "example": "公"
+    },
+    {
+      "symbol": "人",
+      "name": "人字头",
+      "example": "今、会"
+    },
+    {
+      "symbol": "⺈",
+      "name": "斜刀头",
+      "example": "兔"
+    },
+    {
+      "symbol": "勹",
+      "name": "包字头",
+      "example": "包、句"
+    },
+    {
+      "symbol": "丷",
+      "name": "倒八",
+      "example": "关、前"
+    },
+    {
+      "symbol": "讠",
+      "name": "言字旁",
+      "example": "说、话"
+    },
+    {
+      "symbol": "阝",
+      "name": "双耳旁",
+      "example": "院"
+    },
+    {
+      "symbol": "土",
+      "name": "提土旁",
+      "example": "地"
+    },
+    {
+      "symbol": "扌",
+      "name": "提手旁",
+      "example": "把、打"
+    },
+    {
+      "symbol": "艹",
+      "name": "草字头",
+      "example": "莲、花"
+    },
+    {
+      "symbol": "口",
+      "name": "口字旁",
+      "example": "叶、吗"
+    },
+    {
+      "symbol": "囗",
+      "name": "国字框",
+      "example": "国、回"
+    },
+    {
+      "symbol": "彡",
+      "name": "三撇",
+      "example": "影、彩"
+    },
+    {
+      "symbol": "犭",
+      "name": "反犬旁",
+      "example": "狗"
+    },
+    {
+      "symbol": "夂",
+      "name": "折文",
+      "example": "夏、冬"
+    },
+    {
+      "symbol": "门",
+      "name": "门字框",
+      "example": "闪、问"
+    },
+    {
+      "symbol": "氵",
+      "name": "三点水",
+      "example": "江、流"
+    },
+    {
+      "symbol": "宀",
+      "name": "宝盖头",
+      "example": "家、它"
+    },
+    {
+      "symbol": "辶",
+      "name": "走之底",
+      "example": "进、这"
+    },
+    {
+      "symbol": "女",
+      "name": "女字旁",
+      "example": "奶、妹"
+    },
+    {
+      "symbol": "纟",
+      "name": "绞丝旁",
+      "example": "绿、红"
+    },
+    {
+      "symbol": "木",
+      "name": "木字旁",
+      "example": "树、桥"
+    },
+    {
+      "symbol": "日",
+      "name": "日字旁",
+      "example": "晚、明"
+    },
+    {
+      "symbol": "月",
+      "name": "月字旁",
+      "example": "朋"
+    },
+    {
+      "symbol": "灬",
+      "name": "四点底",
+      "example": "点"
+    },
+    {
+      "symbol": "禾",
+      "name": "禾字旁",
+      "example": "秋、和"
+    },
+    {
+      "symbol": "穴",
+      "name": "穴字头",
+      "example": "空"
+    },
+    {
+      "symbol": "⺮",
+      "name": "竹字头",
+      "example": "笔、答"
+    }
+  ],
+  "sourcePages": [
+    109,
+    110
+  ],
+  "note": "按人教社当前官方一年级上册印刷109—110页附录顺序整理：先左栏自上而下，再右栏自上而下；32个笔画名称、29个常用偏旁。名称与偏旁例字经2026-10-23官方页面可视核对。符号使用Unicode文字作形状示意，字体可能使弯曲或收笔形状略有不同，应结合教材及完整笔顺示范观察；提土旁等独立显示与进入汉字后的笔形会有变化。本表仅用于随课查检，不增加每日必默写字，不把附录例字自动升级为本册会写字。"
+}

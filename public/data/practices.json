@@ -1,0 +1,533 @@
+{
+  "note": "根据对应课次知识点自编的声调与拼读巩固，不是课本新增必会字表。按所属课次排列；与基础拼音项目分别记录。",
+  "exercises": [
+    {
+      "lessonId": "u2-l1",
+      "text": "ā",
+      "category": "声调练习 · 自编巩固",
+      "hint": "第一声：声音平稳，不往上或往下拐。 听清声调，再写字母和调号。",
+      "example": "",
+      "source": "自编巩固练习"
+    },
+    {
+      "lessonId": "u2-l1",
+      "text": "á",
+      "category": "声调练习 · 自编巩固",
+      "hint": "第二声：声音向上扬。 听清声调，再写字母和调号。",
+      "example": "",
+      "source": "自编巩固练习"
+    },
+    {
+      "lessonId": "u2-l1",
+      "text": "ǎ",
+      "category": "声调练习 · 自编巩固",
+      "hint": "第三声：单读时先降后升。 听清声调，再写字母和调号。",
+      "example": "",
+      "source": "自编巩固练习"
+    },
+    {
+      "lessonId": "u2-l1",
+      "text": "à",
+      "category": "声调练习 · 自编巩固",
+      "hint": "第四声：声音从高处往下降。 听清声调，再写字母和调号。",
+      "example": "",
+      "source": "自编巩固练习"
+    },
+    {
+      "lessonId": "u2-l1",
+      "text": "ō",
+      "category": "声调练习 · 自编巩固",
+      "hint": "第一声：声音平稳，不往上或往下拐。 听清声调，再写字母和调号。",
+      "example": "",
+      "source": "自编巩固练习"
+    },
+    {
+      "lessonId": "u2-l1",
+      "text": "ó",
+      "category": "声调练习 · 自编巩固",
+      "hint": "第二声：声音向上扬。 听清声调，再写字母和调号。",
+      "example": "",
+      "source": "自编巩固练习"
+    },
+    {
+      "lessonId": "u2-l1",
+      "text": "ǒ",
+      "category": "声调练习 · 自编巩固",
+      "hint": "第三声：单读时先降后升。 听清声调，再写字母和调号。",
+      "example": "",
+      "source": "自编巩固练习"
+    },
+    {
+      "lessonId": "u2-l1",
+      "text": "ò",
+      "category": "声调练习 · 自编巩固",
+      "hint": "第四声：声音从高处往下降。 听清声调，再写字母和调号。",
+      "example": "",
+      "source": "自编巩固练习"
+    },
+    {
+      "lessonId": "u2-l1",
+      "text": "ē",
+      "category": "声调练习 · 自编巩固",
+      "hint": "第一声：声音平稳，不往上或往下拐。 听清声调，再写字母和调号。",
+      "example": "",
+      "source": "自编巩固练习"
+    },
+    {
+      "lessonId": "u2-l1",
+      "text": "é",
+      "category": "声调练习 · 自编巩固",
+      "hint": "第二声：声音向上扬。 听清声调，再写字母和调号。",
+      "example": "",
+      "source": "自编巩固练习"
+    },
+    {
+      "lessonId": "u2-l1",
+      "text": "ě",
+      "category": "声调练习 · 自编巩固",
+      "hint": "第三声：单读时先降后升。 听清声调，再写字母和调号。",
+      "example": "",
+      "source": "自编巩固练习"
+    },
+    {
+      "lessonId": "u2-l1",
+      "text": "è",
+      "category": "声调练习 · 自编巩固",
+      "hint": "第四声：声音从高处往下降。 听清声调，再写字母和调号。",
+      "example": "",
+      "source": "自编巩固练习"
+    },
+    {
+      "lessonId": "u2-l2",
+      "text": "ī",
+      "category": "声调练习 · 自编巩固",
+      "hint": "第一声：声音平稳，不往上或往下拐。 听清声调，再写字母和调号。",
+      "example": "",
+      "source": "自编巩固练习"
+    },
+    {
+      "lessonId": "u2-l2",
+      "text": "í",
+      "category": "声调练习 · 自编巩固",
+      "hint": "第二声：声音向上扬。 听清声调，再写字母和调号。",
+      "example": "",
+      "source": "自编巩固练习"
+    },
+    {
+      "lessonId": "u2-l2",
+      "text": "ǐ",
+      "category": "声调练习 · 自编巩固",
+      "hint": "第三声：单读时先降后升。 听清声调，再写字母和调号。",
+      "example": "",
+      "source": "自编巩固练习"
+    },
+    {
+      "lessonId": "u2-l2",
+      "text": "ì",
+      "category": "声调练习 · 自编巩固",
+      "hint": "第四声：声音从高处往下降。 听清声调，再写字母和调号。",
+      "example": "",
+      "source": "自编巩固练习"
+    },
+    {
+      "lessonId": "u2-l2",
+      "text": "ū",
+      "category": "声调练习 · 自编巩固",
+      "hint": "第一声：声音平稳，不往上或往下拐。 听清声调，再写字母和调号。",
+      "example": "",
+      "source": "自编巩固练习"
+    },
+    {
+      "lessonId": "u2-l2",
+      "text": "ú",
+      "category": "声调练习 · 自编巩固",
+      "hint": "第二声：声音向上扬。 听清声调，再写字母和调号。",
+      "example": "",
+      "source": "自编巩固练习"
+    },
+    {
+      "lessonId": "u2-l2",
+      "text": "ǔ",
+      "category": "声调练习 · 自编巩固",
+      "hint": "第三声：单读时先降后升。 听清声调，再写字母和调号。",
+      "example": "",
+      "source": "自编巩固练习"
+    },
+    {
+      "lessonId": "u2-l2",
+      "text": "ù",
+      "category": "声调练习 · 自编巩固",
+      "hint": "第四声：声音从高处往下降。 听清声调，再写字母和调号。",
+      "example": "",
+      "source": "自编巩固练习"
+    },
+    {
+      "lessonId": "u2-l2",
+      "text": "ǖ",
+      "category": "声调练习 · 自编巩固",
+      "hint": "第一声：声音平稳，不往上或往下拐。 听清声调，再写字母和调号。",
+      "example": "",
+      "source": "自编巩固练习"
+    },
+    {
+      "lessonId": "u2-l2",
+      "text": "ǘ",
+      "category": "声调练习 · 自编巩固",
+      "hint": "第二声：声音向上扬。 听清声调，再写字母和调号。",
+      "example": "",
+      "source": "自编巩固练习"
+    },
+    {
+      "lessonId": "u2-l2",
+      "text": "ǚ",
+      "category": "声调练习 · 自编巩固",
+      "hint": "第三声：单读时先降后升。 听清声调，再写字母和调号。",
+      "example": "",
+      "source": "自编巩固练习"
+    },
+    {
+      "lessonId": "u2-l2",
+      "text": "ǜ",
+      "category": "声调练习 · 自编巩固",
+      "hint": "第四声：声音从高处往下降。 听清声调，再写字母和调号。",
+      "example": "",
+      "source": "自编巩固练习"
+    },
+    {
+      "lessonId": "u2-l3",
+      "text": "mā",
+      "category": "拼读应用 · 自编巩固",
+      "hint": "先读声母，再读带调韵母，连起来。注意标调位置。",
+      "example": "",
+      "source": "自编巩固练习"
+    },
+    {
+      "lessonId": "u2-l3",
+      "text": "mǎ",
+      "category": "拼读应用 · 自编巩固",
+      "hint": "先读声母，再读带调韵母，连起来。注意标调位置。",
+      "example": "",
+      "source": "自编巩固练习"
+    },
+    {
+      "lessonId": "u2-l4",
+      "text": "nǚ",
+      "category": "拼读应用 · 自编巩固",
+      "hint": "n、l和ü相拼，ü上的两点保留。",
+      "example": "",
+      "source": "自编巩固练习"
+    },
+    {
+      "lessonId": "u2-l4",
+      "text": "lǜ",
+      "category": "拼读应用 · 自编巩固",
+      "hint": "n、l和ü相拼，ü上的两点保留。",
+      "example": "",
+      "source": "自编巩固练习"
+    },
+    {
+      "lessonId": "u3-l1",
+      "text": "guā",
+      "category": "拼读应用 · 自编巩固",
+      "hint": "这是三拼音节，介母u要连得快，不能漏写。",
+      "example": "",
+      "source": "自编巩固练习"
+    },
+    {
+      "lessonId": "u3-l1",
+      "text": "huā",
+      "category": "拼读应用 · 自编巩固",
+      "hint": "这是三拼音节，介母u要连得快，不能漏写。",
+      "example": "",
+      "source": "自编巩固练习"
+    },
+    {
+      "lessonId": "u3-l2",
+      "text": "jū",
+      "category": "拼读应用 · 自编巩固",
+      "hint": "j、q、x与ü相拼省掉两点；j、q、x与i相拼仍写i。",
+      "example": "",
+      "source": "自编巩固练习"
+    },
+    {
+      "lessonId": "u3-l2",
+      "text": "qù",
+      "category": "拼读应用 · 自编巩固",
+      "hint": "j、q、x与ü相拼省掉两点；j、q、x与i相拼仍写i。",
+      "example": "",
+      "source": "自编巩固练习"
+    },
+    {
+      "lessonId": "u3-l2",
+      "text": "xǔ",
+      "category": "拼读应用 · 自编巩固",
+      "hint": "j、q、x与ü相拼省掉两点；j、q、x与i相拼仍写i。",
+      "example": "",
+      "source": "自编巩固练习"
+    },
+    {
+      "lessonId": "u3-l2",
+      "text": "jiā",
+      "category": "拼读应用 · 自编巩固",
+      "hint": "j、q、x与ü相拼省掉两点；j、q、x与i相拼仍写i。",
+      "example": "",
+      "source": "自编巩固练习"
+    },
+    {
+      "lessonId": "u3-l3",
+      "text": "zǐ",
+      "category": "拼读应用 · 自编巩固",
+      "hint": "整体认读音节，读完整；区分声母和音节，i标调去点。",
+      "example": "",
+      "source": "自编巩固练习"
+    },
+    {
+      "lessonId": "u3-l3",
+      "text": "cì",
+      "category": "拼读应用 · 自编巩固",
+      "hint": "整体认读音节，读完整；区分声母和音节，i标调去点。",
+      "example": "",
+      "source": "自编巩固练习"
+    },
+    {
+      "lessonId": "u3-l3",
+      "text": "sī",
+      "category": "拼读应用 · 自编巩固",
+      "hint": "整体认读音节，读完整；区分声母和音节，i标调去点。",
+      "example": "",
+      "source": "自编巩固练习"
+    },
+    {
+      "lessonId": "u3-l4",
+      "text": "zhī",
+      "category": "拼读应用 · 自编巩固",
+      "hint": "整体认读音节，注意翘舌。zh、ch、sh各是一个声母。",
+      "example": "",
+      "source": "自编巩固练习"
+    },
+    {
+      "lessonId": "u3-l4",
+      "text": "chī",
+      "category": "拼读应用 · 自编巩固",
+      "hint": "整体认读音节，注意翘舌。zh、ch、sh各是一个声母。",
+      "example": "",
+      "source": "自编巩固练习"
+    },
+    {
+      "lessonId": "u3-l4",
+      "text": "shí",
+      "category": "拼读应用 · 自编巩固",
+      "hint": "整体认读音节，注意翘舌。zh、ch、sh各是一个声母。",
+      "example": "",
+      "source": "自编巩固练习"
+    },
+    {
+      "lessonId": "u3-l4",
+      "text": "rì",
+      "category": "拼读应用 · 自编巩固",
+      "hint": "整体认读音节，注意翘舌。zh、ch、sh各是一个声母。",
+      "example": "",
+      "source": "自编巩固练习"
+    },
+    {
+      "lessonId": "u3-l5",
+      "text": "yī",
+      "category": "拼读应用 · 自编巩固",
+      "hint": "整体认读；yǔ中的u实际发ü的音，拼写时省掉两点。",
+      "example": "",
+      "source": "自编巩固练习"
+    },
+    {
+      "lessonId": "u3-l5",
+      "text": "wǔ",
+      "category": "拼读应用 · 自编巩固",
+      "hint": "整体认读；yǔ中的u实际发ü的音，拼写时省掉两点。",
+      "example": "",
+      "source": "自编巩固练习"
+    },
+    {
+      "lessonId": "u3-l5",
+      "text": "yǔ",
+      "category": "拼读应用 · 自编巩固",
+      "hint": "整体认读；yǔ中的u实际发ü的音，拼写时省掉两点。",
+      "example": "",
+      "source": "自编巩固练习"
+    },
+    {
+      "lessonId": "u4-l1",
+      "text": "bái",
+      "category": "拼读应用 · 自编巩固",
+      "hint": "有a先标a，无a找o、e；ui声调标在i上。",
+      "example": "",
+      "source": "自编巩固练习"
+    },
+    {
+      "lessonId": "u4-l1",
+      "text": "měi",
+      "category": "拼读应用 · 自编巩固",
+      "hint": "有a先标a，无a找o、e；ui声调标在i上。",
+      "example": "",
+      "source": "自编巩固练习"
+    },
+    {
+      "lessonId": "u4-l1",
+      "text": "duì",
+      "category": "拼读应用 · 自编巩固",
+      "hint": "有a先标a，无a找o、e；ui声调标在i上。",
+      "example": "",
+      "source": "自编巩固练习"
+    },
+    {
+      "lessonId": "u4-l2",
+      "text": "hǎo",
+      "category": "拼读应用 · 自编巩固",
+      "hint": "看清字母顺序。iu中的声调标在u上。",
+      "example": "",
+      "source": "自编巩固练习"
+    },
+    {
+      "lessonId": "u4-l2",
+      "text": "kǒu",
+      "category": "拼读应用 · 自编巩固",
+      "hint": "看清字母顺序。iu中的声调标在u上。",
+      "example": "",
+      "source": "自编巩固练习"
+    },
+    {
+      "lessonId": "u4-l2",
+      "text": "niú",
+      "category": "拼读应用 · 自编巩固",
+      "hint": "看清字母顺序。iu中的声调标在u上。",
+      "example": "",
+      "source": "自编巩固练习"
+    },
+    {
+      "lessonId": "u4-l3",
+      "text": "xiě",
+      "category": "拼读应用 · 自编巩固",
+      "hint": "ie和ei顺序不同；x与üe相拼省两点；er可以独立成音节。",
+      "example": "",
+      "source": "自编巩固练习"
+    },
+    {
+      "lessonId": "u4-l3",
+      "text": "xuě",
+      "category": "拼读应用 · 自编巩固",
+      "hint": "ie和ei顺序不同；x与üe相拼省两点；er可以独立成音节。",
+      "example": "",
+      "source": "自编巩固练习"
+    },
+    {
+      "lessonId": "u4-l3",
+      "text": "ér",
+      "category": "拼读应用 · 自编巩固",
+      "hint": "ie和ei顺序不同；x与üe相拼省两点；er可以独立成音节。",
+      "example": "",
+      "source": "自编巩固练习"
+    },
+    {
+      "lessonId": "u4-l4",
+      "text": "lán",
+      "category": "拼读应用 · 自编巩固",
+      "hint": "前鼻音收尾要清楚。jūn、yún里的ü省两点；yuan、yin、yun整体认读。",
+      "example": "",
+      "source": "自编巩固练习"
+    },
+    {
+      "lessonId": "u4-l4",
+      "text": "mén",
+      "category": "拼读应用 · 自编巩固",
+      "hint": "前鼻音收尾要清楚。jūn、yún里的ü省两点；yuan、yin、yun整体认读。",
+      "example": "",
+      "source": "自编巩固练习"
+    },
+    {
+      "lessonId": "u4-l4",
+      "text": "xīn",
+      "category": "拼读应用 · 自编巩固",
+      "hint": "前鼻音收尾要清楚。jūn、yún里的ü省两点；yuan、yin、yun整体认读。",
+      "example": "",
+      "source": "自编巩固练习"
+    },
+    {
+      "lessonId": "u4-l4",
+      "text": "lún",
+      "category": "拼读应用 · 自编巩固",
+      "hint": "前鼻音收尾要清楚。jūn、yún里的ü省两点；yuan、yin、yun整体认读。",
+      "example": "",
+      "source": "自编巩固练习"
+    },
+    {
+      "lessonId": "u4-l4",
+      "text": "jūn",
+      "category": "拼读应用 · 自编巩固",
+      "hint": "前鼻音收尾要清楚。jūn、yún里的ü省两点；yuan、yin、yun整体认读。",
+      "example": "",
+      "source": "自编巩固练习"
+    },
+    {
+      "lessonId": "u4-l4",
+      "text": "yuán",
+      "category": "拼读应用 · 自编巩固",
+      "hint": "前鼻音收尾要清楚。jūn、yún里的ü省两点；yuan、yin、yun整体认读。",
+      "example": "",
+      "source": "自编巩固练习"
+    },
+    {
+      "lessonId": "u4-l4",
+      "text": "yún",
+      "category": "拼读应用 · 自编巩固",
+      "hint": "前鼻音收尾要清楚。jūn、yún里的ü省两点；yuan、yin、yun整体认读。",
+      "example": "",
+      "source": "自编巩固练习"
+    },
+    {
+      "lessonId": "u4-l4",
+      "text": "yīn",
+      "category": "拼读应用 · 自编巩固",
+      "hint": "前鼻音收尾要清楚。jūn、yún里的ü省两点；yuan、yin、yun整体认读。",
+      "example": "",
+      "source": "自编巩固练习"
+    },
+    {
+      "lessonId": "u4-l5",
+      "text": "fāng",
+      "category": "拼读应用 · 自编巩固",
+      "hint": "后鼻音以ng收尾，不能少写g；ying整体认读。",
+      "example": "",
+      "source": "自编巩固练习"
+    },
+    {
+      "lessonId": "u4-l5",
+      "text": "fēng",
+      "category": "拼读应用 · 自编巩固",
+      "hint": "后鼻音以ng收尾，不能少写g；ying整体认读。",
+      "example": "",
+      "source": "自编巩固练习"
+    },
+    {
+      "lessonId": "u4-l5",
+      "text": "míng",
+      "category": "拼读应用 · 自编巩固",
+      "hint": "后鼻音以ng收尾，不能少写g；ying整体认读。",
+      "example": "",
+      "source": "自编巩固练习"
+    },
+    {
+      "lessonId": "u4-l5",
+      "text": "gōng",
+      "category": "拼读应用 · 自编巩固",
+      "hint": "后鼻音以ng收尾，不能少写g；ying整体认读。",
+      "example": "",
+      "source": "自编巩固练习"
+    },
+    {
+      "lessonId": "u4-l5",
+      "text": "yīng",
+      "category": "拼读应用 · 自编巩固",
+      "hint": "后鼻音以ng收尾，不能少写g；ying整体认读。",
+      "example": "",
+      "source": "自编巩固练习"
+    }
+  ]
+}

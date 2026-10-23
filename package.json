@@ -1,0 +1,21 @@
+{
+  "name": "ziya-yuwen-g1",
+  "version": "1.2.0",
+  "private": true,
+  "type": "module",
+  "engines": {
+    "node": ">=22.13.0"
+  },
+  "scripts": {
+    "dev": "vite --config vite.account.config.mjs --host 127.0.0.1 --port 8781",
+    "build:pages": "node scripts/build-pages.mjs",
+    "test": "node --test tests/*.test.mjs"
+  },
+  "dependencies": {
+    "@supabase/supabase-js": "2.118.0"
+  },
+  "devDependencies": {
+    "vite": "8.0.13",
+    "@electric-sql/pglite": "0.5.11"
+  }
+}
